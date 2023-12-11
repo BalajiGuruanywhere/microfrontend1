@@ -40,8 +40,8 @@ module.exports = {
               filename:
                 'remoteEntry.js',
               exposes: {
-                './Button':
-                  './src/Button',
+                './Product':
+                  './src/Product',
               },
             }
           ),
